@@ -1,6 +1,6 @@
 # TodoList
 
-An easy-to-use to-do list tool that lets you mark and unmark things to indicate whether they have been finished or not Various categories can be used to view tasks.
+This is a basic todolist app created with HTML, CSS, and vanilla javascript, and it includes all of the functionality such as add delete, delete a specific task, check task conditions, and so on.
 
 ## View app at
 
